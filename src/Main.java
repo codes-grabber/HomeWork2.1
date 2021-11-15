@@ -27,6 +27,7 @@ public class Main {
                 new Track(50)
         };
 
+
         for (int i = 0; i <= participants.length-1; i++) {
             for (int j = 0; j <= lets.length-1; j++) {
 
