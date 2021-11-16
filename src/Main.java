@@ -45,5 +45,13 @@ public class Main {
                 }
             }
         }
+
+
+
+
+
+    DayOfWeek.hoursLeft(DayOfWeek.Thursday);
+        DayOfWeek.hoursLeft(DayOfWeek.Saturday);
+
     }
 }
